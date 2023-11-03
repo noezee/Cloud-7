@@ -204,7 +204,7 @@ nav li a {
 .logo1{
   position: absolute;
   width: 500px;
-  top: -20px;
+  top: 200px;
   left: 160px;
   z-index: 2;
 
